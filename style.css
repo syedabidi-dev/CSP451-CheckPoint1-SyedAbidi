@@ -24,3 +24,21 @@ main {
 p {
     font-size: 18px;
 }
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+p, li {
+    font-size: 18px;
+}
