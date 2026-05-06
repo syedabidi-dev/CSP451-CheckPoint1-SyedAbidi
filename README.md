@@ -2,6 +2,14 @@
 
 
 
+Student Name: Syed Abidi
+
+GitHub Username: syedabidi-dev
+
+Course: CSP451
+
+
+
 \## Description
 
 This project demonstrates Git and GitHub fundamentals for CSP451.
